@@ -6,3 +6,4 @@ if l==rl:
 	print("palindrome")
 else:
 	print("not palindrome")
+	

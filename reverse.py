@@ -1,3 +1,3 @@
-s="prathiba"
+s=str(input())
 s1=s[::-1]
 print(s1)

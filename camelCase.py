@@ -1,0 +1,5 @@
+s=input()
+s=str(s)
+l=s.split(" ")
+s="_".join(l)
+print (s)
